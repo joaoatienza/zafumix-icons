@@ -23,21 +23,8 @@ from opendesktop you will have 8 different versions available,
 
    - The icon theme will be in the Settings for select
 
-### Installation with bash script
-  
-###### Requirements
-   - gzip or unrar
-   - wget *(the vast majority of distros already include it)*
-
-paste this command in your terminal for the installation.
-
-`wget -N https://raw.githubusercontent.com/zayronxio/Zafiro-icons/master/Install-Zafiro-Icons.sh && chmod +x Install-Zafiro-Icons.sh && bash ./Install-Zafiro-Icons.sh`
 
 ## Preview
 
-### Light
-![Light Preview](https://github.com/zayronxio/Zafiro-icons/raw/master/Light/previews/preview.png)
-
-<!--- ### Dark
-![Dark Preview](https://github.com<!---/zayronxio/Zafiro-icons/raw/master/Dark/previews/preview.png) -->
+![Preview](https://raw.githubusercontent.com/zayronxio/Zafiro-icons/master/previews/demo-general2018.png)
 
